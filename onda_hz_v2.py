@@ -1,3 +1,4 @@
+from config import GROQ_API_KEY
 import pyaudio
 import wave
 import numpy as np
