@@ -6,7 +6,7 @@ import json
 import os
 from extract_intention import extract_intention  # Asegúrate de tener este módulo
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "  "
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 def record_audio(filename, duration=5, rate=16000):
