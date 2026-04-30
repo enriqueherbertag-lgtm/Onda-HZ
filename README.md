@@ -14,15 +14,15 @@ La IA percibe urgencia, duda o tristeza en la voz del usuario y adapta su respue
 
 ---
 
-##  Teoría
+## 📄 Teoría
 
 Este repositorio es la **implementación práctica** del concepto publicado en:
 
-> **Onda-HZ: sistema de recepción de intención por modulación de frecuencia**  
+> **Comunicación por frecuencia vibratoria: fundamentos biológicos para una interfaz humano-IA**  
 > Enrique Aguayo H. – Mackiber Labs  
-> DOI: [10.5281/zenodo.XXXXXX](https://doi.org/10.5281/zenodo.XXXXXX) (artículo conceptual)
+> DOI: [10.5281/zenodo.19903003](https://doi.org/10.5281/zenodo.19903003)
 
-El artículo describe cómo la forma de la onda (frecuencia, amplitud, modulación) transporta intención más allá del contenido semántico.
+El artículo describe cómo la forma de la onda (frecuencia, amplitud, modulación) transporta intención más allá del contenido semántico, inspirándose en la comunicación neuronal biológica por frecuencia vibratoria.
 
 **Este repositorio comprueba experimentalmente esa hipótesis.**
 
