@@ -14,7 +14,7 @@ La IA percibe urgencia, duda o tristeza en la voz del usuario y adapta su respue
 
 ---
 
-## 📄 Teoría
+##  Teoría
 
 Este repositorio es la **implementación práctica** del concepto publicado en:
 
