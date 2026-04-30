@@ -1,4 +1,4 @@
-# 🌊 Onda-HZ
+#  Onda-HZ
 
 [![Licencia](https://img.shields.io/badge/Licencia-Copyright%20%28c%29%202026%20Enrique%20Aguayo-red)](LICENSE)
 [![Estado](https://img.shields.io/badge/Estado-Prototipo%20funcional-brightgreen)](https://github.com/enriqueherbertag-lgtm/Onda-HZ)
@@ -14,7 +14,7 @@ La IA percibe urgencia, duda o tristeza en la voz del usuario y adapta su respue
 
 ---
 
-## 📄 Teoría
+##  Teoría
 
 Este repositorio es la **implementación práctica** del concepto publicado en:
 
@@ -41,7 +41,7 @@ El artículo describe cómo la forma de la onda (frecuencia, amplitud, modulaci�
 
 ---
 
-## 📊 Parámetros extraídos
+##  Parámetros extraídos
 
 | Parámetro | Qué mide | Rango típico |
 |-----------|----------|--------------|
@@ -52,7 +52,7 @@ El artículo describe cómo la forma de la onda (frecuencia, amplitud, modulaci�
 
 ---
 
-## 🧠 Clasificación de intención
+##  Clasificación de intención
 
 | Estado | Energía | Ritmo | Pausas | Tono |
 |--------|---------|-------|--------|------|
