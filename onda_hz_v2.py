@@ -5,7 +5,7 @@ import numpy as np
 import requests
 import json
 import os
-from extract_intention import extract_intention  # Asegúrate de tener este módulo
+from extract_intention import extract_intention  
 
 GROQ_API_KEY = "  "
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
